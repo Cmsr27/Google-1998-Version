@@ -1,0 +1,59 @@
+body{
+    background-color: #FFFFFF;
+
+}
+img { 
+    width: 400px;
+    margin-top: 150px;
+    
+   
+  }
+
+.table1{
+    background-color:#EEEEEE;
+    height: 60px;
+   text-align: center;
+   margin-right: 200px;
+   margin-left: 200px;
+}
+
+
+#search{
+    width: 400px;
+   
+}
+p{
+   
+    margin-bottom: 0;
+}
+
+
+.part1{
+    width: 40%;
+    margin-left: 200px;
+    border: black;
+    background-color: #7ee5da;
+}
+.part2{
+    font-size: 14px;
+    width: 20%;
+    margin-left: 200px;
+    
+    background-color: #70ccc2;
+}
+
+
+.part3{
+    width: 40%;
+    background-color: #62b3aa;
+    width: 30px;
+    margin-left: 2px;
+    
+
+}
+table{
+    width: 79%;
+    margin-left: 200px;
+
+}
+
